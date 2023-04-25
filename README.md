@@ -1,2 +1,3 @@
 # projetocsharp
-Desenvolver um sistema em csharp para controle de qualidade
+Desenvolver um sistema em csharp para controle de qualidade.
+Utilizar como parâmetros análise estatística e algumas normas...
